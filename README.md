@@ -4,7 +4,7 @@ A modern and responsive blog landing page built using **HTML5** and **CSS3** as 
 
 ## 🚀 Live Demo
 
-🔗 Add your GitHub Pages link here
+🔗 [https://your-demo-link-here](https://bhaveshbhoi256.github.io/ScaleX_Blog_Landing_Page/)
 
 ## 📸 Preview
 
